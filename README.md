@@ -25,7 +25,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e meu nível de famili
 * **C:** `[Nível: Avançado]` [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
 * **Java:** `[Nível: Básico]` [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 * **Python:** `[Nível: Básico/Em Aprendizado]` [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-* **Git & GitHub:** `[Nível: Avançado]` [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+* **Git & GitHub:** `[Nível: Básico/Em Aprendizado]` [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 * **Figma:** `[Nível: Intermediário]` [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 * **Ferramentas de Escritório:** Excel, Word, PowerPoint, Notion, Trello, SEI [cite: 19]
 

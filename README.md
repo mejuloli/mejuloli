@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="160px">
-      <img src="https://avatars.githubusercontent.com/u/131378202?s=400&u=4358a8e5feb6bce2afa056eec8351ffe1ef4bb29&v=4" width="150px" style="border-radius: 10px" />
+      <img src="https://s6.ezgif.com/tmp/ezgif-632f1d9976d3d4.gif" width="150px" style="border-radius: 10px" />
     </td>
     <td>
       <h1>👋🏻 Oi, eu sou a Julia (@mejuloli)!</h1>

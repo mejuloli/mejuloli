@@ -65,8 +65,6 @@
 
 ## 📬 Conecte-se comigo!
 
-📧 jko.juliaoliveira@gmail.com  
-🌐 [GitHub](https://github.com/mejuloli)  
-📱 [Linkedin](https://www.linkedin.com/in/juliak-oliveira/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jko.juliaoliveira@gmail.com)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mejuloli)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/juliak-oliveira)
 
 ---

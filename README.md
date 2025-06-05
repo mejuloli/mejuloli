@@ -1,14 +1,14 @@
 <table>
   <tr>
-    <td width="160px">
-      <img src="https://s6.ezgif.com/tmp/ezgif-632f1d9976d3d4.gif" width="150px" style="border-radius: 10px" />
+    <td style="width: 140px; vertical-align: top; padding-right: 20px;">
+      <img src="https://s6.ezgif.com/tmp/ezgif-632f1d9976d3d4.gif" alt="gif-gatinho" width="120" style="border-radius: 10px;" />
     </td>
-    <td>
-      <h1>👋🏻 Oi, eu sou a Julia (@mejuloli)!</h1>
-      <p>
-        🎓 <strong>Estudante de Sistemas de Informação</strong> na <a href="https://www.utfpr.edu.br">UTFPR</a><br>
-        💼 <strong>Bolsista na Pró-Reitoria de Planejamento e Administração </strong> – Relatórios, organização de dados e rotinas administrativas<br>
-        🧠 <strong>Assessora de Marketing na Hï Tech – Empresa Júnior</strong> – Criação de conteúdo, trabalho em equipe e bot de automação no Discord
+    <td style="vertical-align: top;">
+      <h1 style="margin-top: 0px; margin-bottom: 10px; font-size: 1.7em;">👋🏻 Oi, eu sou a Julia (@mejuloli)!</h1>
+      <p style="margin-top: 0; margin-bottom: 5px; line-height: 1.5;">
+        🎓 <strong>Estudante de Sistemas de Informação</strong> na <a href="https://www.utfpr.edu.br" target="_blank" rel="noopener noreferrer">UTFPR</a><br>
+        💼 Bolsista na Pró-Reitoria de Planejamento e Administração<br>
+        🧠 Assessora de Marketing na Hï Tech – Empresa Júnior de Computação (UTFPR)
       </p>
     </td>
   </tr>

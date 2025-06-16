@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 140px; vertical-align: top; padding-right: 20px;">
-      <img src="https://www.dropbox.com/scl/fi/ki8pq6pv4jwn71ofl97q4/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq-1.gif?rlkey=l0zh86kezoyig7yofetpr897w&st=xi7ovfp3&dl=0" alt="gif-gatinho" width="120" style="border-radius: 10px;" />
+      <img src="https://uc1ae3ba97a606a8288af9c11fc3.previews.dropboxusercontent.com/p/thumb/ACr38XDHfIAf5onwvKLHpw6M--UIu_PmuDViguNH006KJxrX19xDZt0zQTfdGCigcvZVXU1Sk4OY0foJVTvxudcP7LZ7U5WYwzV0lqz2zqCVJ5ZnkpPiojih-stIsCjaAU9d96no40u1dPVZfG1T6GzUDb1q026lTajWsNw8-PJ6h2ohfK_Xm511KjBCgMKF4X_n_FaLOSqXbVMq6dfSApOb6onsip-a69T962PFEYQfjGBIghzcVIHTQuUAV0_HbJJEkKfYUCLCFjPsxxhsUfmUBG9gQLdeSFCKepA-MGeDca5bgZEqoXHSgS788D4_OAR86zheaW3J7IAS-9l6l_lMqs12Mrerrz5NUcZ69l47y4wd74fbt3aJdK3_OZ7qzEk/p.gif?is_prewarmed=true" alt="gif-gatinho" width="120" style="border-radius: 10px;" />
     </td>
     <td style="vertical-align: top;">
       <h1 style="margin-top: 0px; margin-bottom: 10px; font-size: 1.7em;">👋🏻 Oi, eu sou a Julia (@mejuloli)!</h1>

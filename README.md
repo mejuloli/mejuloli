@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 140px; vertical-align: top; padding-right: 20px;">
-      <img src="https://s6.ezgif.com/tmp/ezgif-632f1d9976d3d4.gif" alt="gif-gatinho" width="120" style="border-radius: 10px;" />
+      <img src="https://drive.google.com/file/d/1tQ6uvMRFesLuDiOxMq7i15XsNs01kv46/view?usp=drive_link" alt="gif-gatinho" width="120" style="border-radius: 10px;" />
     </td>
     <td style="vertical-align: top;">
       <h1 style="margin-top: 0px; margin-bottom: 10px; font-size: 1.7em;">👋🏻 Oi, eu sou a Julia (@mejuloli)!</h1>

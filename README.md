@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 140px; vertical-align: top; padding-right: 20px;">
-      <img src="https://uc1ae3ba97a606a8288af9c11fc3.previews.dropboxusercontent.com/p/thumb/ACr38XDHfIAf5onwvKLHpw6M--UIu_PmuDViguNH006KJxrX19xDZt0zQTfdGCigcvZVXU1Sk4OY0foJVTvxudcP7LZ7U5WYwzV0lqz2zqCVJ5ZnkpPiojih-stIsCjaAU9d96no40u1dPVZfG1T6GzUDb1q026lTajWsNw8-PJ6h2ohfK_Xm511KjBCgMKF4X_n_FaLOSqXbVMq6dfSApOb6onsip-a69T962PFEYQfjGBIghzcVIHTQuUAV0_HbJJEkKfYUCLCFjPsxxhsUfmUBG9gQLdeSFCKepA-MGeDca5bgZEqoXHSgS788D4_OAR86zheaW3J7IAS-9l6l_lMqs12Mrerrz5NUcZ69l47y4wd74fbt3aJdK3_OZ7qzEk/p.gif?is_prewarmed=true" alt="gif-gatinho" width="120" style="border-radius: 10px;" />
+      <img src="https://previews.dropbox.com/p/thumb/ACsCLwWtKNTX1deRJ6baeup5fgbNuq6ibJ7MDCM7Y0TViTvCR-ii4XKEgUcyGGw3yjjEY67D-hK_9ZS-A9y6L8N-lVTrgP1BCtGq-TrVPYi2EVCzAtm__5R5yulYhECecY8ohwZ9zvF11wNy_UhfTd5uI3AA3eXbhVRrfa6kaweraDOWhXDoNnBzsGj-Efv42lpHT80kIIS2C165reERIyoMvgax_ddhPLf7iR94ujMYUrY8c86yJDpssXHqAaJcrN84yOWh9tkbtzQ8Vx-YUFuhvrxu6yADvi8ej6II5Quwdua6lHnEvPM5FSfrDrEe93ymwvLoYsbhNagRm9dqSXl7/p.gif?is_prewarmed=true" alt="gif-gatinho" width="120" style="border-radius: 10px;" />
     </td>
     <td style="vertical-align: top;">
       <h1 style="margin-top: 0px; margin-bottom: 10px; font-size: 1.7em;">👋🏻 Oi, eu sou a Julia (@mejuloli)!</h1>

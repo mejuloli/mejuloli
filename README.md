@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 140px; vertical-align: top; padding-right: 20px;">
-      <img src="https://previews.dropbox.com/p/thumb/ACsCLwWtKNTX1deRJ6baeup5fgbNuq6ibJ7MDCM7Y0TViTvCR-ii4XKEgUcyGGw3yjjEY67D-hK_9ZS-A9y6L8N-lVTrgP1BCtGq-TrVPYi2EVCzAtm__5R5yulYhECecY8ohwZ9zvF11wNy_UhfTd5uI3AA3eXbhVRrfa6kaweraDOWhXDoNnBzsGj-Efv42lpHT80kIIS2C165reERIyoMvgax_ddhPLf7iR94ujMYUrY8c86yJDpssXHqAaJcrN84yOWh9tkbtzQ8Vx-YUFuhvrxu6yADvi8ej6II5Quwdua6lHnEvPM5FSfrDrEe93ymwvLoYsbhNagRm9dqSXl7/p.gif?is_prewarmed=true" alt="gif-gatinho" width="120" style="border-radius: 10px;" />
+      <img src="https://ead-ntm.itaipuparquetec.org.br/ntm/pluginfile.php/46751/mod_page/content/65/gif%20de%20gato.gif" alt="gif-gatinho" width="120" style="border-radius: 10px;" />
     </td>
     <td style="vertical-align: top;">
       <h1 style="margin-top: 0px; margin-bottom: 10px; font-size: 1.7em;">👋🏻 Oi, eu sou a Julia (@mejuloli)!</h1>

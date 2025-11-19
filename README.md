@@ -7,8 +7,9 @@
       <h1 style="margin-top: 0px; margin-bottom: 10px; font-size: 1.7em;">👋🏻 Oi, eu sou a Julia (@mejuloli)!</h1>
       <p style="margin-top: 0; margin-bottom: 5px; line-height: 1.5;">
         🎓 <strong>Estudante de Sistemas de Informação</strong> na <a href="https://www.utfpr.edu.br" target="_blank" rel="noopener noreferrer">UTFPR</a><br>
-        💼 Bolsista na Pró-Reitoria de Planejamento e Administração<br>
-        🧠 Assessora de Marketing na Hï Tech – Empresa Júnior de Computação (UTFPR)
+        💻 Bolsista na área de dados e automações na PROPLAD – UTFPR<br>
+        🚀 Experiência com desenvolvimento de software (Java, Spring Boot, React)<br>
+        🎯 Assessora de Marketing na Hï Tech – Empresa Júnior de Computação
       </p>
     </td>
   </tr>
@@ -16,55 +17,67 @@
 
 ---
 
-## 🚀 Projetos Destacados
+## 🚀 Projetos em Destaque
 
-### 🎒 [Portal ONEsq](https://github.com/mejuloli/Portal_ONEsq)
-> Sistema acadêmico fictício para disciplina de Análise e Projeto de Sistemas.
+### 🧾 [API REST – Gestão de Ordens de Serviço](https://github.com/mejuloli/os_management)
+> Projeto pessoal com foco em back-end Java.
 
-- Desenvolvi toda a interface gráfica das páginas e um sistema simples de login.
-- Foco em estrutura semântica e estilização customizada.
+- Desenvolvi uma API REST com Spring Boot e PostgreSQL.
+- Apliquei arquitetura multicamadas, DTOs, validação, JPA/Hibernate, Swagger e tratamento global de exceções.
+- Estrutura pensada com boas práticas de organização e segurança local.
 
-**Habilidades Técnicas:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 🖥️ [SO Dashboard (Front-End)](https://github.com/mejuloli/so-dashboard/tree/main/front-end)
-> Interface de um painel multitarefa para monitoramento de processos, memória e arquivos.
-
-- Desenvolvi o front-end completo com foco em visualização clara.
-- Projeto em equipe para disciplina de Sistemas Operacionais.
-
-**habilidades Técnicas:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📌 Tecnologias e Ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+**Tecnologias:**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 [SO Dashboard (Front-end)](https://github.com/mejuloli/so-dashboard)
+> Projeto acadêmico focado em visualização de métricas do Linux.
+
+- Interface React para monitoramento em tempo real de uso de CPU, RAM, processos e desempenho.
+- Responsável pelo front-end e integração com back-end via Flask.
+- Projeto em dupla na disciplina de Sistemas Operacionais.
+
+**Tecnologias:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+
+---
+
+## 💡 Outros Destaques
+
+- 👩🏻‍🏫 **PET-CoCE (UTFPR)** – Oficinas de programação com Arduino e Scratch para crianças. Coautora de artigo com menção honrosa.
+- 👩🏻‍💻 **Competição de Programação UTF.c (2023 e 2024)** – Menção honrosa nas duas edições com foco em C, matrizes e lógica.
+- 📈 **Automação na PROPLAD (UTFPR)** – Automatização de relatórios em Apps Script + Google Sheets para análise de ativos.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat&logo=trello)
 
 ---
 
 ## 📬 Conecte-se comigo!
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jko.juliaoliveira@gmail.com)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mejuloli)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/juliak-oliveira)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jko.juliaoliveira@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mejuloli)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/juliak-oliveira)
 
----

@@ -8,8 +8,7 @@
       <p style="margin-top: 0; margin-bottom: 5px; line-height: 1.5;">
         🎓 <strong>Estudante de Sistemas de Informação</strong> na <a href="https://www.utfpr.edu.br" target="_blank" rel="noopener noreferrer">UTFPR</a><br>
         💻 Bolsista na área de dados e automações na PROPLAD – UTFPR<br>
-        🚀 Experiência com desenvolvimento de software (Java, Spring Boot, React)<br>
-        🎯 Assessora de Marketing na Hï Tech – Empresa Júnior de Computação
+        🚀 Experiência com desenvolvimento de software (Java, Spring Boot, React)
       </p>
     </td>
   </tr>

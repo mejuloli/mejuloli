@@ -7,7 +7,7 @@
       <h1 style="margin-top: 0px; margin-bottom: 10px; font-size: 1.7em;">👋🏻 Oi, eu sou a Julia (@mejuloli)!</h1>
       <p style="margin-top: 0; margin-bottom: 5px; line-height: 1.5;">
         🎓 <strong>Estudante de Sistemas de Informação</strong> na <a href="https://www.utfpr.edu.br" target="_blank" rel="noopener noreferrer">UTFPR</a><br>
-        💻 Bolsista na Pró-Reitoria de Planejamento e Administração – UTFPR<br>
+        💻 Estagiária de Desenvolvimento Full-Stack na Neosilos <br>
         🚀 Experiência com desenvolvimento de software (Java, Spring Boot, React)
       </p>
     </td>
